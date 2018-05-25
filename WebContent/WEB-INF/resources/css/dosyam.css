@@ -1,0 +1,67 @@
+	.formtable{
+		padding: 10px;
+		border:1px solid blue;
+	}
+	
+	input[type=text]{
+		width: 250px;
+		margin-left:10px;
+	}
+	
+	textarea{
+		width:250px;
+		height:300px;
+	}
+	.label{
+		text-align:right;
+		vertical-align:top;
+	}
+	
+	.error{
+		color:red;
+	}
+	
+	
+	.offer{
+		border:2px solid blue;
+		padding:35px;
+	}
+	
+	.dogru{
+		color:green;
+		font-weight: bold;
+	}
+	
+	div.footer{
+		font-size:small;
+		color:gray;
+	}
+	
+	div.content{
+		position:relative;
+		padding: 40px;
+	}
+	
+	.message{
+		margin-bottom:20px;
+		color:yellow;
+		}
+	
+	span.subject{
+		font-size:large;
+		color:red;
+		font-weight:bold;
+	}
+	
+	span.messagebody{
+		display:block;
+		font-weight:italic;
+	}
+	
+	form.replyform
+	{
+		padding:20px;
+		border:1px solid red;
+	}
+	
+	

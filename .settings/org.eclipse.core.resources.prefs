@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/kalip/content.jsp=UTF-8
+encoding//WebContent/WEB-INF/kalip/footer.jsp=UTF-8
+encoding//WebContent/WEB-INF/templates/default.jsp=UTF-8
+encoding//WebContent/WEB-INF/tiles/accountcreated.jsp=UTF-8
+encoding//WebContent/WEB-INF/tiles/admin.jsp=UTF-8
+encoding//WebContent/WEB-INF/tiles/denied.jsp=UTF-8
+encoding//WebContent/WEB-INF/tiles/error.jsp=UTF-8
+encoding//WebContent/WEB-INF/tiles/home.jsp=UTF-8
+encoding//WebContent/WEB-INF/tiles/loggedout.jsp=UTF-8
+encoding//WebContent/WEB-INF/tiles/login.jsp=UTF-8
